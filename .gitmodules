@@ -1,0 +1,3 @@
+[submodule "pytorch-classification-extended"]
+	path = pytorch-classification-extended
+	url = https://github.com/adarsh-crafts/pytorch-classification-extended.git
